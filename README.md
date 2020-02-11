@@ -30,6 +30,6 @@ _En este proyecto de Git y GitHub se pretende aprender a manejar dichos programa
 ### 3.10 Citar Nombre del Proyecto en Giiter
 ***
 
-Fdo. Don Alvaro Lopez Santamaria
-Fdo. Don Isaac Parras García 
-Fdo. Don Sergio Cabrera Guerrero
+* Fdo. Don Álvaro López Santamaria
+* Fdo. Don Isaac Parras García 
+* Fdo. Don Sergio Cabrera Guerrero
