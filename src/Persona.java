@@ -8,7 +8,7 @@
 	 private boolean bFuncionario;
 	 private int iNumeroAlumno;
 	 
-	 public Persona(String sNombre, String sApellidos, String sDNI, int iEdad,int iAntiguedad){
+	 public Persona(String sNombre, String sApellidos, String sDNI, int iEdad,int iAntiguedad, String sUniversidad, boolean bFuncionario, int iNumeroAlumno){
 		 setsNombre(sNombre);
 		 setsApellidos(sApellidos);
 		 setsDNI(sDNI);
