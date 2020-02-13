@@ -1,29 +1,5 @@
 
 public interface IPersona {
-	
-	public String getsUniversidad() {
-		return sUniversidad;
-	}
-
-	public void setsUniversidad(String sUniversidad) {
-		this.sUniversidad = sUniversidad;
-	}
-
-	public boolean isbFuncionario() {
-		return bFuncionario;
-	}
-
-	public void setbFuncionario(boolean bFuncionario) {
-		this.bFuncionario = bFuncionario;
-	}
-
-	public int getiNumeroAlumno() {
-		return iNumeroAlumno;
-	}
-
-	public void setiNumeroAlumno(int iNumeroAlumno) {
-		this.iNumeroAlumno = iNumeroAlumno;
-	}
 
 	public String getsNombre() {
 		return sNombre;
@@ -48,11 +24,5 @@ public interface IPersona {
 	}
 	public void setiEdad(int iEdad) {
 		this.iEdad = iEdad;
-	}
-	public int getiAntiguedad() {
-		return iAntiguedad;
-	}
-	public void setiAntiguedad(int iAntiguedad) {
-		this.iAntiguedad = iAntiguedad;
 	}
 }
