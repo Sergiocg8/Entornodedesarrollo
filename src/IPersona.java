@@ -25,4 +25,5 @@ public interface IPersona {
 	public void setiEdad(int iEdad) {
 		this.iEdad = iEdad;
 	}
+	
 }
